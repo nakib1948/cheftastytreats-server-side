@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "picture": "https://i.ibb.co/vY1kswT/chef1.jpg",
+    "name": "John Smith",
+    "bio": "With 10 years of experience, John Smith is a skilled chef who has created 3 unique recipes. He has gained the admiration of many with 1000 likes.",
+    "experience": 10,
+    "recipes": 3,
+    "likes": 1000
+  },
+  {
+    "id": 2,
+    "picture": "https://i.ibb.co/wCtFGht/chef2.jpg",
+    "name": "Mario Johnson",
+    "bio": "Mary Johnson is a highly experienced chef with 15 years of experience. She has created 75 recipes that have garnered the attention of many food enthusiasts, with 2000 likes.",
+    "experience": 15,
+    "recipes": 75,
+    "likes": 2000
+  },
+  {
+    "id": 3,
+    "picture": "https://i.ibb.co/wYL6T1G/chef3.jpg",
+    "name": "David Lee",
+    "bio": "David Lee is a chef with 8 years of experience and has created 3 delicious recipes. He has gained 800 likes for his culinary creations.",
+    "experience": 8,
+    "recipes": 3,
+    "likes": 800
+  },
+  {
+    "id": 4,
+    "picture": "https://i.ibb.co/mtLy6Sy/chef4.jpg",
+    "name": "Emily Davis",
+    "bio": "Emily Davis is a chef with 12 years of experience and has created 3 unique recipes that have gained her 1500 likes.",
+    "experience": 12,
+    "recipes": 3,
+    "likes": 1500
+  },
+  {
+    "id": 5,
+    "picture": "https://i.ibb.co/6yzVM7G/chef5.jpg",
+    "name": "Robert Wilson",
+    "bio": "Robert Wilson is a highly skilled chef with 20 years of experience. He has created 3 recipes that have gained immense popularity, with 3000 likes.",
+    "experience": 20,
+    "recipes": 3,
+    "likes": 3000
+  },
+  {
+    "id": 6,
+    "picture": "https://i.ibb.co/pv8r2T0/chef6.jpg",
+    "name": "Vin Thompson",
+    "bio": "Sarah Thompson is a young chef with 5 years of experience. Although she has only created 3 recipes so far, her culinary skills have already gained her 500 likes from food enthusiasts.",
+    "experience": 5,
+    "recipes": 3,
+    "likes": 500
+  }
+]
