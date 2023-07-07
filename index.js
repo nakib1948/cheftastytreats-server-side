@@ -24,9 +24,7 @@ app.get("/chefs", async (req, res) => {
     res.send(recipe)
 });
 
-app.get("/", (req, res) => {
-  res.send("Simple curd is running");
-});
+
 
 app.listen(port, function () {
   console.log(`Listening on port ${port}`);
